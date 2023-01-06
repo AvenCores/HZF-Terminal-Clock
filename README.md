@@ -8,7 +8,7 @@
 * Переходим в директорию **Source**
 
 # Запуск
-* Вводим в Terminal: **python HZF-Terminal-Clock.py**
+* Вводим в Terminal: **python HZF-Terminal-Clock.py** / **HZF-Terminal-Clock.exe**
 
 # Меню
 
